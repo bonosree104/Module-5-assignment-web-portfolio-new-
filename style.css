@@ -1,11 +1,15 @@
 section{
     height:500px;
+    padding-bottom: 150px;
 }
 body{
     font-family: 'Noto Sans KR', sans-serif;
 }
 h1{
-    color:darkgreen;
+    color:orangered;
+}
+h2{
+    text-align:center;
 }
 h3{
     color: darkmagenta;
@@ -16,4 +20,29 @@ h3{
     padding:1%;
     border-radius: 5px;
     color:black;
+}
+.half-width{
+
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width:100%;
+}
+.name-highlight{
+    color:orangered;
+}
+.project-area{
+    border: 5px  solid whitesmoke;
+    border-radius: 30px;
+    margin:1%;
+    padding: 1%;
+    height: 80%;
+    width:25%;
+    display:inline-block;
+    }
+.project-pic{
+    width:100%;
 }
