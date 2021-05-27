@@ -1,0 +1,19 @@
+section{
+    height:500px;
+}
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+h1{
+    color:darkgreen;
+}
+h3{
+    color: darkmagenta;
+}
+.link-button{
+    background-color: rgba(0, 255, 179, 0.952);
+    text-decoration: none;
+    padding:1%;
+    border-radius: 5px;
+    color:black;
+}
