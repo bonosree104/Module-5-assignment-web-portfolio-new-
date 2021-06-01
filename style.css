@@ -1,4 +1,12 @@
+nav li{
+    list-style: none;
+    float: right;
+    padding: 10px;
+}
+nav {
+    height:50px;
 
+}
 section{
     height:500px;
     padding-bottom: 150px;
